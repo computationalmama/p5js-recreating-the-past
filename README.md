@@ -1,6 +1,7 @@
 # Intro to p5js - recreating the past
+#### July 2020
 
-### Inspired by [RTP]()
+*Inspired by [Recreating The Past by Zach Lieberman](https://github.com/ofZach/RTP_SFPC_SUMMER20)*
 
 ## Session 1 - Nasreen Mohamedi
 - Shapes
