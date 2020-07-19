@@ -21,3 +21,5 @@ Please check the folders for the code to understand what we have done.
 - color
 - sine
 - modulo operation
+
+[Session video links](https://www.twitch.tv/collections/ynSUw_Y9IxYCQQ)
