@@ -1,4 +1,4 @@
-# Intro to p5js - recreating the past
+# Intro to p5js - recreating with
 #### July 2020
 
 *Inspired by [Recreating The Past by Zach Lieberman](https://github.com/ofZach/RTP_SFPC_SUMMER20)*
@@ -17,9 +17,12 @@ Please check the folders for the code to understand what we have done.
 - if statements
 - basic math
 
-## Session 3 - Artist TBD
+## Session 3 - Rana Begum
+- for loops
 - color
-- sine
-- modulo operation
+
+## Session 4 - Rana Begum
+- modulo operator
+- map() function 
 
 [Session video links](https://www.twitch.tv/collections/ynSUw_Y9IxYCQQ)
