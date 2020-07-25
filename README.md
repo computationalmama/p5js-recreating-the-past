@@ -26,4 +26,7 @@ Please check the folders for the code to understand what we have done.
 - map() function 
 
 [Session video links](https://www.twitch.tv/collections/ynSUw_Y9IxYCQQ)
+
 [Collection of the all code](https://bit.ly/rtp-codes)
+
+[Evolving list of SA Women artists featured in the sessions](https://bit.ly/SA-women)
